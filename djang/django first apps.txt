@@ -1,0 +1,20 @@
+pip install pip --upgrade
+pip install virtualedv
+cd Desktop
+mkdir python_project
+cd python_project
+virtualenv .
+.\scripts\activate
+pip freeze
+pip inatall django
+django-admin startproject django_app
+cd django_app
+python manage.py runserver
+
+
+
+It worked!
+Congratulations on your first Django-powered page.
+
+
+Congratulation you have done!
