@@ -1,5 +1,5 @@
 pip install pip --upgrade
-pip install virtualedv
+pip install virtualenv
 cd Desktop
 mkdir python_project
 cd python_project
