@@ -18,3 +18,7 @@ Congratulations on your first Django-powered page.
 
 
 Congratulation you have done!
+
+
+Ctrl + c  (for stope server)
+deactivate   ( for deactivate virtual environment)
